@@ -1,0 +1,13 @@
+/* Profile page styles */
+div {
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    color: #008CBA;
+}
+
+p {
+    font-size: 18px;
+}
