@@ -1,0 +1,30 @@
+/* Home page styles */
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    background-color: #333;
+    padding: 1rem;
+}
+
+.navbar ul {
+    list-style: none;
+    display: flex;
+}
+
+.navbar li {
+    margin: 0 10px;
+}
+
+.navbar a {
+    color: white;
+    text-decoration: none;
+}
+
+.content {
+    text-align: center;
+    margin-top: 50px;
+}
+
+h1 {
+    color: #4CAF50;
+}

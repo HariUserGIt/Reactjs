@@ -1,0 +1,16 @@
+/* App.css */
+.app-container {
+    text-align: center; /* Center the text in the header and other components */
+}
+
+.app-header {
+    background-color: #4CAF50; /* Green background */
+    color: white; /* White text */
+    padding: 10px 0; /* Padding above and below */
+    margin-bottom: 20px; /* Space between header and content */
+    display: flex; /* Use flexbox for centering */
+    justify-content: center; /* Center the header text horizontally */
+    align-items: center; /* Center the header text vertically */
+    font-size: 24px; /* Font size for the header */
+    border-radius: 5px; /* Optional: rounded corners */
+}

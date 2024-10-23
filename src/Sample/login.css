@@ -1,0 +1,5 @@
+/* Style for error message */
+.error-message {
+    color: red; /* Red color for error */
+    margin-bottom: 10px; /* Space below the error message */
+}
